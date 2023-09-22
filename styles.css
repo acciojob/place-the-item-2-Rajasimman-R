@@ -1,2 +1,22 @@
-
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+}
+.box{
+	height:100px;
+	width:100px;
+	display:flex;
+	font-size:50px;
+	justify-content:center;
+	align-items: center;
+}
+.green{
+	background-color:green;
+}
+.red{
+	background-color:red;
+}
+.blue{
+	background-color:blue;
+}
 /* Your CSS Code here. */
